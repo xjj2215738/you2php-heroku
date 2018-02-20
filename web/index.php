@@ -128,7 +128,7 @@ if(isset($_GET['v'])){
     <p class="text-white m-0">富强、民主、文明、和谐</p>
     <p class="text-white m-0">自由、平等、公正、法治</p>
     <p class="text-white m-0">爱国、敬业、诚信、友善</p>
-    <p class="text-red m-0">From xjj Powered by you2php</p>
+    <p class="text-white m-3">From xjj Powered by you2php</p>
     </div>
     
     <div class="row pt-2 pb-2">
